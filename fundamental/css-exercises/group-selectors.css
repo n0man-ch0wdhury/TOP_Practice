@@ -1,0 +1,13 @@
+button{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;    
+}
+.yes{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+.no{
+    color: black;
+    background-color: yellow;
+}
